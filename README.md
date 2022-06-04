@@ -1,6 +1,8 @@
 # Go: Aprenda a Programar com a Linguagem do Google
 Exercicios realizados do curso [Go: Aprenda a Programar com a Linguagem do Google](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
-do Canal [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) : Autora [Ellen Korbes](https://twitter.com/veekorbes).
+do Canal [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) : 
+Autora [Ellen Korbes](https://twitter.com/veekorbes).
+
 01 - Vis?o Geral do Curso
 
 02 - Vari¨¢veis, Valores & tipos
@@ -35,7 +37,7 @@ do Canal [Aprenda Go](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB
 
 17 - Exerc¨ªcios: Ninja N¨ªvel 8
 
-18 - Concorr¨ºncia
+18 - [Concorr¨ºncia]9https://www.youtube.com/watch?v=egd4WHJMwC0&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&index=130&ab_channel=AprendaGo)
 
 19 - Seu Ambiente de Desenvolvimento
 
